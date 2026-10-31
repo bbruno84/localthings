@@ -18,6 +18,9 @@
 
 # LocalThings
 
+> Personal maintenance fork of [mbillow/localthings](https://github.com/mbillow/localthings), based on stable v0.35.0.
+> Version 0.35.0.post1 adds tested Samsung certificate and power-response fixes. See [FORK.md](FORK.md) for maintenance and installation.
+
 **Control your Samsung appliances from Home Assistant over your home network, with no cloud account.**
 
 LocalThings connects Home Assistant to Samsung washers, dryers, refrigerators, air conditioners, ovens and other appliances that work with the SmartThings app. It talks to each appliance on your local network.
